@@ -1,0 +1,20 @@
+{
+  "name": "neel-nanda-skills",
+  "description": "Neel Nanda's research-commentary judgment architecture as a skill: decompose into claims, rate importance/confidence/standing separately, prior before evidence, hunt the boring hypothesis, grade evidence on a spectrum. Blind-validated against Neel Nanda's own published commentary.",
+  "version": "1.0.0",
+  "author": {
+    "name": "kuotient",
+    "url": "https://github.com/kuotient"
+  },
+  "homepage": "https://github.com/kuotient/neel-nanda-skills",
+  "repository": "https://github.com/kuotient/neel-nanda-skills",
+  "license": "MIT",
+  "keywords": [
+    "analysis",
+    "paper-review",
+    "research-commentary",
+    "epistemics",
+    "neel-nanda",
+    "critical-thinking"
+  ]
+}
